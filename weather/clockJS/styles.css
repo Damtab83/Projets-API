@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+    background-color: #8a2be2;
+    width: 40vw;
+    border-radius: 20px;
+    margin: auto;
+    padding: 0.4rem;
+    text-shadow: 3px 4px  darkslategrey;
+    box-shadow: 2px 2px #260f3b;
+}
+
+
+.time {
+    text-align: center;
+    margin: auto;
+    margin-top: 8vh;
+    font-family:  cursive;
+    font-size: 2rem;
+    color: steelblue;
+    text-shadow: 2px 2px #8a916b;
+    background-image: linear-gradient(to right, yellow, lightgreen);
+    width: 35vw;
+    padding: auto 10%;
+    border-radius: 15px;
+}
+
